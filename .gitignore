@@ -1,0 +1,61 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/app/build
+/build
+/captures
+/tun2socks/build/
+.externalNativeBuild
+.cxx
+local.properties
+app/src/headless/assets
+/.knownPackages
+/*.patch
+/build-tools
+/emulator
+/licenses
+/patcher
+/platform-tools
+/platforms
+/tools
+/.kotlin/sessions
+app/google-services.json
+app/fdroidFull/release
+app/playFull/release
+app/websiteFull/release
+app/my-release-key.jks
+
+# Generic signing files
+*.jks
+*.keystore
+*.p12
+signing.properties
+
+# Android App Bundle and APK outputs
+*.apk
+*.aab
+*.aar
+
+# Memory dumps and logs
+*.hprof
+*.log
+
+# IDE - More specific Android Studio / IntelliJ noise
+.idea/deploymentTargetDropDown.xml
+.idea/runConfigurations/
+.idea/usage.statistics.xml
+.idea/librarySources.xml
+
+# System files
+Thumbs.db
+
+# Gradle specific
+!gradle/wrapper/gradle-wrapper.jar
