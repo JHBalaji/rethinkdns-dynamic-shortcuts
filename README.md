@@ -9,6 +9,10 @@ A lightweight, standalone Android application designed to provide quick automati
 - **Android 14+ Compatible**: Uses explicit intents and proper package visibility declarations for modern Android security standards.
 - **Minimal Footprint**: No background services or unnecessary battery drain.
 
+
+![output_recording](https://github.com/user-attachments/assets/c4b82cac-0a43-42f9-827b-91c063f50a8f)
+
+
 ## Prerequisites
 
 1.  **RethinkDNS App**: Must be installed on the device.
